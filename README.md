@@ -1,2 +1,3 @@
 # pantry-tracker
-A simple app for tracking your pantry, fridge, and household inventory—so you always know what you have and what to buy next.
+
+Know what you have. Use what you buy. Track your pantry, fridge, and household inventory.
